@@ -1,0 +1,12 @@
+{
+  "name": "@productdevbook/chatwoot",
+  "version": "1.7.0",
+  "configKey": "chatwoot",
+  "compatibility": {
+    "nuxt": ">=3.3.1"
+  },
+  "builder": {
+    "@nuxt/module-builder": "0.8.4",
+    "unbuild": "2.0.0"
+  }
+}
